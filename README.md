@@ -24,15 +24,13 @@ in ascending order. In this application how the elements change their position i
 > Light Theme
 
 <p align="center">
-    <img alt="Desktop Light" src="assets/demos/light_web.gif" height="340" width="440" hspace="10" vspace="10">
-    <img alt="Mobile Light" src="assets/demos/light_mobile.gif" height="340" width="287" hspace="10" vspace="10">
+    <img width="1280" alt="2022-10-13 (17)" src="https://user-images.githubusercontent.com/76739126/206860963-eda67a63-3f6a-4f2e-a42f-1a41eeef2c23.png">
 </p>
 
 > Dark Theme
 
 <p align="center">
-    <img alt="Desktop Dark" src="assets/demos/dark_web.gif" height="340" width="440" hspace="10" vspace="10">
-    <img alt="Mobile Dark" src="assets/demos/dark_mobile.gif" height="340" width="287" hspace="10" vspace="10">
+    <img width="1280" alt="2022-10-13 (4)" src="https://user-images.githubusercontent.com/76739126/206860980-7aaf6114-58ff-41c4-9833-9f403d901cee.png">
 </p>
 
 ## Libraries Used
