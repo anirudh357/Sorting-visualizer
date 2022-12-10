@@ -40,10 +40,4 @@ in ascending order. In this application how the elements change their position i
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 - [hydrated_bloc](https://pub.dev/packages/hydrated_bloc)
 
-## How to use
-
-Download the apk from [here](https://github.com/RitamChakraborty/sorting_visualizer/releases/download/v1.0.0-beta/app-release.apk).
-
-Or visit the website [here](https://ritamchakraborty.github.io/sorting_visualizer/#/).
-
  
